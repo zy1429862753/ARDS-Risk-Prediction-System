@@ -1,0 +1,1 @@
+streamlit run "F:\machpan_really\python\app_rf.py"
