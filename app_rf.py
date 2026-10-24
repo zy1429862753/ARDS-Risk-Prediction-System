@@ -51,6 +51,8 @@ st.markdown(
     " System</h2>",
     unsafe_allow_html=True,
 )
+# 【核心修改点】添加醒目的免责声明，回应审稿人要求
+st.warning("⚠️ **Disclaimer:** For Research and Educational Demonstration Only — Not Externally Validated for Clinical Use.")
 
 user_input_values = {}
 

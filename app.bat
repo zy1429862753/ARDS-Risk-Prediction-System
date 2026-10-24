@@ -1,1 +1,1 @@
-streamlit run "F:\machpan_really\python\app_rf.py"
+streamlit run "F:\machpan_really\python\python_second_revise\app_rf.py"
